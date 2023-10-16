@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">My name is Abayraj and I'm from kerala calicut india</h2>
+<h2 align="left">My name is Abayraj and I'm from calicut kerala india</h2>
 
 ###
 
