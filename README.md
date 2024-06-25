@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm AbayRaj👋 </h1>
+<h1 align="center">Hi, I'm Abayraj👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from india </h3>
 
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=AbayRaj&show_icons=true&theme=onedark">
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abayraj&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbayRajlayout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=AbayRajtheme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AbayRajtheme=onedark" />
