@@ -97,16 +97,6 @@ Here are some ideas to get you started:
 </div>
 
 
-## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abayraj&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abayrajlayout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Abayrajtheme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abayrajtheme=onedark" />
-</div>
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abayrajtheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
