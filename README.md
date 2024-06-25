@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Abayraj👋 </h1>
+<h1 align="center">Hi, I'm AbayRaj👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer from india </h3>
 
@@ -99,17 +99,16 @@ Here are some ideas to get you started:
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Abayraj&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abayrajlayout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Abayrajtheme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abayrajtheme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=AbayRaj&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbayRajlayout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=AbayRajtheme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=AbayRajtheme=onedark" />
 </div>
 
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Abayrajtheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AbayRajtheme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/Abayraj/Abayraj/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
