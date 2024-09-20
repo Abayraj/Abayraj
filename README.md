@@ -12,7 +12,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmthbnY0ZW9jZXZtcHZnNmduMDdhdml3Yzd4ajVjdXI5YjdscjBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<img  align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmthbnY0ZW9jZXZtcHZnNmduMDdhdml3Yzd4ajVjdXI5YjdscjBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 </div>
 
 
