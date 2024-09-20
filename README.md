@@ -1,9 +1,8 @@
-
 <h1 align="center">Hello 👋, I'm Abayraj</h1>
 <h3 align="center">Web Developer | Tech Enthusiast | Open-Source Contributor</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
 ---
@@ -45,14 +44,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abayraj&theme=gruvbox&no-frame=true&row=1&column=6" alt="Abayraj's GitHub Trophies" />
-</div>
-
----
-
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
@@ -71,3 +62,4 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
