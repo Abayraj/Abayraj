@@ -1,7 +1,7 @@
 
 <h3 align="left" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hey there! 👋 I'm Abayraj, a developer from Kozhikode, Kerala, India.</h3>
 
-# 💻 Tech Stack:
+<h4># 💻 Tech Stack:</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=%23007ACC" alt="TypeScript" />
@@ -26,7 +26,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+<h4># 📊 GitHub Stats:</h4>
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abayraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
