@@ -29,10 +29,16 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abayraj&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abayraj&theme=shadow_green&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abayraj&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abayraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abayraj&theme=black-ice&hide_border=false" alt="GitHub Streak" /><br/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abayraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 
 <!-- Snake animation -->
@@ -40,5 +46,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmthbnY0ZW9jZXZtcHZnNmduMDdhdml3Yzd4ajVjdXI5YjdscjBpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" alt="Coding GIF" />
+</div>
 
