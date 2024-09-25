@@ -1,50 +1,35 @@
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   # Runs every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-
-  # Allows you to run the workflow manually from the Actions tab
+  # Allows the workflow to be run manually
   workflow_dispatch:
 
-# The sequence of jobs that will run as part of the workflow
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Downloads a copy of the repository
-      - name: Checkout the repository
+      # Checkout the repository
+      - name: Checkout
         uses: actions/checkout@v2
 
-      # Generates the snake animation and pushes it to the README
+      # Generate the snake contribution graph
       - name: Generate Snake Animation
         uses: Platane/snk@v2.0.0
         with:
-          # github user name
           github_user_name: ${{ github.repository_owner }}
-          # output path
-          outputs: dist/snake.svg
+          outputs: snake.svg  # Save directly to the root
 
-      # Upload the snake animation to the GitHub repository
-      - name: Push Snake Animation to repository
-        uses: ad-m/github-push-action@v0.6.0
+      # Commit and push the generated snake.svg to the repository
+      - name: Push Snake SVG to Repository
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-          commit_message: "Add snake animation"
-          file: dist/snake.svg
+          commit_message: "Add Snake animation"
+          file_pattern: snake.svg
 
-      # Optionally, if you want to display the snake in the README.md
-      - name: Update README with Snake Animation
-        run: |
-          sed -i 's|![](.*)|![](./dist/snake.svg)|' README.md
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "Update README with snake animation"
-          git push
+      # Optionally update
+
 
