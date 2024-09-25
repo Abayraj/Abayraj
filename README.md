@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Abayraj ... and I'm a from india kerala kozhikode....</h2>
+<h3 align="left" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hey there! 👋 I'm Abayraj, a developer from Kozhikode, Kerala, India.</h3>
 
 # 💻 Tech Stack:
 <div align="center">
