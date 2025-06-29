@@ -1,8 +1,4 @@
 
-<h3 align="left" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hey there! 👋 I'm Abayraj, a developer from Kozhikode, Kerala, India.</h3>
-
-
-
 
 <!-- Snake animation -->
   ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
