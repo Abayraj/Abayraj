@@ -1,6 +1,6 @@
-# Hi, I'm Abay Raj 
 
-### Full-Stack Software Engineer
+
+# Full-Stack Software Engineer
 
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,rails,reactnative,expo,mongodb,mysql,git,github" />
